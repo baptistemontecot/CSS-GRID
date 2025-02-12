@@ -1,12 +1,12 @@
 # Évaluation de HTML5 et CSS3 - Réalisation d'une maquette responsive avec le modèle de disposition en grille 👨🏼‍💻
 
-_Lisez attentivement le Readme avant de commencer toute manipulation pour mieux appréhender le sujet et
+_Lisez attentivement le fichier README.md avant de commencer toute manipulation pour mieux appréhender le sujet et
 qui sait, profiter du point bonus si vous le voulez !_ ✌️
 
 ## Contexte 👨🏼‍🏫
 
-Bienvenue dans votre évaluation du module *CSS GRID*. Dans cet exercice, vous allez avoir l'occasion de mettre en
-pratique vos compétences acquises en HTML5 et CSS3 pour créer une maquette responsive à partir du modèle donné.
+Bienvenue dans votre évaluation du module *CSS Grid*. Dans cet exercice, vous allez avoir l'occasion de mettre en
+pratique vos compétences acquises en HTML5 et CSS3 pour créer une maquette responsive à partir d'un modèle donné.
 
 ### Objectif 🎯
 
@@ -32,12 +32,12 @@ _Le repository contient les éléments suivants :_
 │   │   └── 🖼️ viezh-robert.svg
 │   │   
 │   └── 📂 img/
-│       └── logo.jpg
+│       ├── 🖼️logo.jpg
+│       └── 🖼️ web-design-grid.jpg # La maquette web à intégrer
 │
 ├── 📜 index.html # Le fichier HTML de base que vous devrez modifier pour créer la maquette
 ├── 📜 README.md # Le fichier expliquant le contexte de l'évaluation
-├── 📜 styles.css # La feuille de style à personnaliser pour appliquer la mise en page de la maquette
-└── 🖼️ web-design-grid.jpg # La maquette web à intégrer sous format jpg
+└── 📜 styles.css # La feuille de style à personnaliser pour appliquer la mise en page de la maquette
 ```
 
 ### Ressources 📚
@@ -47,7 +47,7 @@ hier : [CSS Grid Garden](https://cssgridgarden.com/#fr)
 
 ### Avertissements ❌
 
-Chat GPT ne sera pas encouragée ni tolérée dans le cadre de cette évaluation.
+Chat GPT n'est pas encouragée dans le cadre de cette évaluation.
 
 ### Soumission 💻
 
@@ -57,8 +57,7 @@ de la structure et la propreté du code puis du barème ci-dessous.
 
 ### Bonus 🔥
 
-Vous disposez de mon repository Github pour cette évaluation. Pour réaliserAssurez-vous de cloner ce repository dans
-votre
+Vous disposez de mon repository Github pour cette évaluation. Assurez-vous de cloner ce repository dans votre
 environnement de développement.
 
 Bonne chance ! 🍀
